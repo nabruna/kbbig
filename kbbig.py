@@ -1,3 +1,7 @@
+# !/usr/bin/python3
+# -*- coding: utf-8 -*-
+# stream Babooshka
+
 import random
 import sys
 
