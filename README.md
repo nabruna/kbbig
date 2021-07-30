@@ -19,4 +19,6 @@ After installing Python 3, just run this on your command prompt as `python3 kbbi
 > - *Director's Cut* (2011): harmonica
 > - *50 Words for Snow* (2011): bells
 
+Trivia: did you know that Kate Bush's debut album was produced by David Gilmour from Pink Floyd?
+
 If you found this repository, please let me know what keyword you searched for. Seriously, what the hell were you looking for?
