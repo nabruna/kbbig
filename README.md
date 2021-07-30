@@ -1,6 +1,6 @@
 ### The Kate Bush Bard Instrument Generator
 
-This Python 3.7 script generates a random instrument out of 35 unique instruments, handpicked from [Kate Bush's discography](https://en.wikipedia.org/wiki/Kate_Bush_discography). These are not your conventional bard instruments, and the existence of some in your role-playing game might depend on your campaign's setting.
+This Python 3.7 script generates a random instrument out of 35 unique options, all handpicked from [Kate Bush's discography](https://en.wikipedia.org/wiki/Kate_Bush_discography). These are not your conventional bard instruments, and the likelihood of some of them existing in your role-playing game might depend on your campaign's setting. I recommend that you generate at least three and discuss which one would work best for your character with your DM. :)
 
 ### How to run this script
 
