@@ -13,13 +13,13 @@ bard_instruments = ['accordion', 'balalaika', 'beer bottles', 'bells', 'bodhrán
 'musical saw', 'pan flute', 'psaltery', 'renaissance guitar', 'sitar', 'standing bell', 'timpani', 'tin whistle',
 'tupan', 'uilleann pipes', 'valiha', 'whistle']
 
-# Now for the generator... Simple input followed by a function that
+# Instructions
 print("""
 Welcome to the Kate Bush Bard Instrument Generator (KBBIG)! With over 30 options, the KBBIG is directly inspired by Kate Bush's discography and her love of experimental instruments.
 
 Simply hit ENTER on your keyboard and it will generate an unconventional/rare instrument for your bard to specialize in!""")
 
-# And that's it! There's probably a better way to do this, but I'm lazy and this works.
+# The generator! This is written as a function because I want it to be. There's probably a better way to do this, but I'm lazy and this works.
 def gen(int):
     prompt = (f"{int}")
     run = (input(prompt).lower().strip())
